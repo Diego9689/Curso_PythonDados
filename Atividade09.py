@@ -1,0 +1,6 @@
+print("FALSO, O valor aparecido não vai ser 10, e sim 0 pois na condição não coloca uma mudança de variável, assim o valor de 'w' não mudará ")
+print("FALSO, IF e ELSE Não pode ser utilizado como um laço de repetição")
+print("VERDADEIRO, O print é usado para ler strings")
+print("VERDADEIRO, As variáveis podem e sofrem mudanças durante a execução do programa")
+print("FALSO, O comando o while só faz a execução após a verificação da condição")
+print("FALSO, O comando if sem tem duas possbilidades, mas o while não possoui possibilidades múltiplas pois ele so é executado quando a condição for verdadeira.")
